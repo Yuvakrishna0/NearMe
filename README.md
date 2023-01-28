@@ -18,7 +18,7 @@ run the django server and execute the html files.
 
 ## Code:
 
-```python
+```
 
 map.html
 
